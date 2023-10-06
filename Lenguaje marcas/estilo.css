@@ -1,0 +1,23 @@
+h1 {
+    color: yellow;
+    text-align: center;
+    font-weight: bold;
+}
+table caption {
+    color: violet;
+    border: 0cap;
+}
+table thead {
+    background-color: gray;
+    text-align: center;
+    font-weight: bold;
+}
+table thead td {
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+}
+table tbody td {
+    border: 1px solid black;
+}
